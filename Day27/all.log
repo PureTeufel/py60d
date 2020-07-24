@@ -1,0 +1,4 @@
+2020-07-24 19:59:48,471-<ipython-input-6-3c4864bd856e>[line:30]-INFO:stu id : 10010, name : xiaoming
+2020-07-24 19:59:48,474-<ipython-input-6-3c4864bd856e>[line:40]-INFO:xiaoming score : 88
+2020-07-24 19:59:48,475-<ipython-input-6-3c4864bd856e>[line:30]-INFO:stu id : 001, name : xiaohong
+2020-07-24 19:59:48,475-<ipython-input-6-3c4864bd856e>[line:42]-ERROR:Stu score type is <class 'float'>, not int
